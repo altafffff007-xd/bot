@@ -1,0 +1,2 @@
+# bot
+this trusted
